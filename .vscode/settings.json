@@ -2,5 +2,6 @@
   "[java]": {
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "mwpb.java-prettier-formatter"
-  }
+  },
+  "java.compile.nullAnalysis.mode": "automatic"
 }
